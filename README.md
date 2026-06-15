@@ -88,7 +88,7 @@ Atom OS is designed to help gym owners manage memberships, attendance, trainers,
   <tr>
     <td>
       <div align="center">
-        <img src="https://dummyimage.com/1200x560/0b1120/e2e8f0.png&text=Atom+OS+%E2%80%94+Gym+Management+SaaS" alt="Atom OS preview" width="100%"/>
+        <img src="assets/logo.png" alt="Atom OS preview" width="100%"/>
       </div>
     </td>
   </tr>
