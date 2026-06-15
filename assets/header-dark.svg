@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" fill="none">
+  <rect width="1600" height="600" fill="#060B16"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060B16"/>
+      <stop offset="0.52" stop-color="#0C1324"/>
+      <stop offset="1" stop-color="#141B2E"/>
+    </linearGradient>
+    <linearGradient id="glowA" x1="320" y1="90" x2="1280" y2="510" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B" stop-opacity="0.42"/>
+      <stop offset="0.55" stop-color="#38BDF8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#F8FAFC" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="type" x1="540" y1="120" x2="1180" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#CBD5E1"/>
+    </linearGradient>
+    <filter id="blur" x="-100" y="-100" width="1800" height="800" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="600" fill="url(#bg)"/>
+
+  <g opacity="0.16" stroke="#94A3B8" stroke-width="1">
+    <path d="M80 70H1520"/>
+    <path d="M80 150H1520"/>
+    <path d="M80 230H1520"/>
+    <path d="M80 310H1520"/>
+    <path d="M80 390H1520"/>
+    <path d="M80 470H1520"/>
+    <path d="M120 40V560"/>
+    <path d="M320 40V560"/>
+    <path d="M520 40V560"/>
+    <path d="M720 40V560"/>
+    <path d="M920 40V560"/>
+    <path d="M1120 40V560"/>
+    <path d="M1320 40V560"/>
+    <path d="M1520 40V560"/>
+  </g>
+
+  <ellipse cx="1140" cy="150" rx="220" ry="140" fill="#38BDF8" opacity="0.14" filter="url(#blur)"/>
+  <ellipse cx="380" cy="440" rx="250" ry="150" fill="#F59E0B" opacity="0.13" filter="url(#blur)"/>
+  <ellipse cx="920" cy="360" rx="320" ry="170" fill="#FFFFFF" opacity="0.05" filter="url(#blur)"/>
+
+  <path d="M160 452C328 362 444 326 590 328C725 330 834 380 946 409C1078 443 1228 438 1456 356" stroke="url(#glowA)" stroke-width="3" stroke-linecap="round"/>
+
+  <g transform="translate(115 112)">
+    <rect x="0" y="0" width="600" height="350" rx="30" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <rect x="34" y="34" width="532" height="282" rx="22" fill="#0D1527" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="56" y="56" width="278" height="26" rx="13" fill="#111827" fill-opacity="0.88"/>
+    <rect x="56" y="100" width="190" height="12" rx="6" fill="#F59E0B" opacity="0.92"/>
+    <rect x="56" y="124" width="220" height="12" rx="6" fill="#E2E8F0" opacity="0.52"/>
+    <rect x="56" y="148" width="170" height="12" rx="6" fill="#E2E8F0" opacity="0.42"/>
+    <rect x="56" y="188" width="220" height="66" rx="16" fill="#111827" stroke="#334155" stroke-opacity="0.65"/>
+    <rect x="290" y="188" width="220" height="66" rx="16" fill="#10182B" stroke="#334155" stroke-opacity="0.65"/>
+    <path d="M76 228H258" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
+    <path d="M310 228H492" stroke="#F59E0B" stroke-width="4" stroke-linecap="round"/>
+    <rect x="56" y="270" width="454" height="28" rx="14" fill="#0F172A" stroke="#334155" stroke-opacity="0.7"/>
+    <path d="M76 285H236" stroke="#E2E8F0" stroke-opacity="0.48" stroke-width="3" stroke-linecap="round"/>
+    <path d="M258 285H386" stroke="#F8FAFC" stroke-opacity="0.18" stroke-width="3" stroke-linecap="round"/>
+    <path d="M410 285H486" stroke="#38BDF8" stroke-opacity="0.75" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(820 108)">
+    <rect x="0" y="0" width="650" height="150" rx="28" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <text x="46" y="56" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="2">ASHISH MAHNWA</text>
+    <text x="48" y="96" fill="url(#type)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="1.4">Builder • Founder • Developer • Athlete</text>
+    <text x="48" y="126" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">Documenting the journey of wandering, observing and understanding the world.</text>
+  </g>
+
+  <g transform="translate(990 306)">
+    <rect x="0" y="0" width="490" height="156" rx="26" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <rect x="24" y="24" width="120" height="108" rx="20" fill="#0F172A" stroke="#334155" stroke-opacity="0.8"/>
+    <rect x="44" y="44" width="80" height="12" rx="6" fill="#38BDF8" opacity="0.9"/>
+    <rect x="44" y="68" width="58" height="12" rx="6" fill="#E2E8F0" opacity="0.45"/>
+    <rect x="44" y="92" width="70" height="12" rx="6" fill="#F59E0B" opacity="0.82"/>
+    <path d="M190 112L236 58L280 86L330 46L388 94" stroke="#F8FAFC" stroke-opacity="0.82" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M190 112H390" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="2"/>
+    <circle cx="190" cy="112" r="6" fill="#F59E0B"/>
+    <circle cx="236" cy="58" r="6" fill="#38BDF8"/>
+    <circle cx="280" cy="86" r="6" fill="#F59E0B"/>
+    <circle cx="330" cy="46" r="6" fill="#38BDF8"/>
+    <circle cx="388" cy="94" r="6" fill="#F59E0B"/>
+  </g>
+
+  <g transform="translate(1210 492)" opacity="0.9">
+    <path d="M0 36C30 14 58 0 95 0C132 0 160 14 190 36" stroke="#E2E8F0" stroke-opacity="0.48" stroke-width="5" stroke-linecap="round"/>
+    <path d="M10 36H180" stroke="#F59E0B" stroke-opacity="0.55" stroke-width="5" stroke-linecap="round"/>
+    <rect x="64" y="-8" width="32" height="32" rx="10" fill="#38BDF8" opacity="0.8"/>
+  </g>
+</svg>
