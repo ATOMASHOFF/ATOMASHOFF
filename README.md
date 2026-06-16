@@ -44,26 +44,18 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" align="center">
-
-  <img src="https://img.shields.io/badge/%F0%9F%92%A5-17+-Projects%20Shipped-FFD60A?style=for-the-badge&labelColor=0F172A"/>
-
+      <img src="https://img.shields.io/badge/%F0%9F%92%A5-17+-Projects%20Shipped-FFD60A?style=for-the-badge&labelColor=0F172A"/>
     </td>
     <td width="50%" align="center">
-
-  <img src="https://img.shields.io/badge/%F0%9F%8F%86-5+-Certifications-FFD60A?style=for-the-badge&labelColor=0F172A"/>
-
+      <img src="https://img.shields.io/badge/%F0%9F%8F%86-5+-Certifications-FFD60A?style=for-the-badge&labelColor=0F172A"/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF-Founder+%40+Atom+OS-FFD60A?style=for-the-badge&labelColor=0F172A"/>
-
+      <img src="https://img.shields.io/badge/%F0%9F%8E%AF-Founder+%40+Atom+OS-FFD60A?style=for-the-badge&labelColor=0F172A"/>
     </td>
     <td width="50%" align="center">
-
-  <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F-National+Yoga+Gold-FFD60A?style=for-the-badge&labelColor=0F172A"/>
-
+      <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F-National+Yoga+Gold-FFD60A?style=for-the-badge&labelColor=0F172A"/>
     </td>
   </tr>
 </table>
