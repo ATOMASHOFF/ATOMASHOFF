@@ -55,7 +55,7 @@
       <img src="https://img.shields.io/badge/%F0%9F%8E%AF-Founder+%40+Atom+OS-FFD60A?style=for-the-badge&labelColor=0F172A"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F-National+Yoga+Gold-FFD60A?style=for-the-badge&labelColor=0F172A"/>
+      <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F-National+Hackathon-FFD60A?style=for-the-badge&labelColor=0F172A"/>
     </td>
   </tr>
 </table>
