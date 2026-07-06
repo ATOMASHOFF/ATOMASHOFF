@@ -17,7 +17,7 @@
   <a href="https://github.com/ATOMASHOFF"><img src="https://img.shields.io/badge/GitHub-F8F8F2?style=flat-square&logo=github&logoColor=black"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/atomashoff/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://atomashoff.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
-  <a href="https://www.instagram.com/atomashoff/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+ 
 
 </div>
 
